@@ -179,10 +179,12 @@ footer{
    height: 75px;
    background-color: black;
    color:white;
-   margin-top: 15px;
+   margin-top: 15px ;
   text-align: center;
   line-height: 75px;
   box-shadow: 0 2px 8px 3px rgba(20,23,28, .4);
+ 
+  
    
 }
 
