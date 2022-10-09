@@ -1,4 +1,4 @@
-<h1> Restaurant Webside</h1>
+<h1> Restaurant Website</h1>
 
 <p> you can order steak you want</p>
 
